@@ -10,7 +10,7 @@ Steps for this to work.
 
 4. then cd into that directory
    
-   cd ~/beatufilsoup_scraping
+   cd ~/beautifulsoup_scraping
 
 5. create the files from above and add the code
    
@@ -23,3 +23,6 @@ Steps for this to work.
    python3 save_images.py
 
 8. follow instructions and the output will be saved to ioc_report.txt and the image whatever you named it. 
+
+
+note: you need an account for virustotal so you can get a api key.
